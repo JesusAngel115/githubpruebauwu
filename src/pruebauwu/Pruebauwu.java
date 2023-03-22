@@ -10,9 +10,7 @@ package pruebauwu;
  */
 public class Pruebauwu {
 
-    /**
-     * @param args the command line arguments
-     */
+    //confirmacion manuel
     public static void main(String[] args) {
         // TODO code application logic here
     }
